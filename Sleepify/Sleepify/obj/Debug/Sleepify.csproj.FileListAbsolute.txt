@@ -1,0 +1,9 @@
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\bin\Debug\Sleepify.exe.config
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\bin\Debug\Sleepify.exe
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\bin\Debug\Sleepify.pdb
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.csprojResolveAssemblyReference.cache
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.Form1.resources
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.Properties.Resources.resources
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.csproj.GenerateResource.Cache
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.exe
+C:\Users\Basiq\documents\visual studio 2017\Projects\Sleepify\Sleepify\obj\Debug\Sleepify.pdb
