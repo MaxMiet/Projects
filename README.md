@@ -1,4 +1,4 @@
 # Projects
 Personal Projects
 
-Personal projects from my past, any and all future projects that arent under contract will be uploaded to this repo
+Projects from my past, any and all future projects that arent under contract will be uploaded to this repo
