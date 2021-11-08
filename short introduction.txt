@@ -1,0 +1,13 @@
+Hi, I’m Max.
+I've been interested in computer science since I was 12, found myself dabbling in code at a young age, at the time I ofcourse did not understand it
+but I had a burning passion to try to start understanding it.
+so over time I developed skills to research and find information online that I needed to help me learn and understand anything I needed, anything I found interesting at the time.
+ex. coding, reverse engineering, game hacking, game bot scripts, bruteforcing and much more.
+These topics interested me in a major way, but I could not pursue any of these interests fully, until recently.
+
+Currently working on improving myself and moving forward with my self-teaching journey.
+So far python is definitely my favorite language I've dabbled in, currently diving deeper into python through self teaching, working on getting better and always learning more and something new.
+Any code you'll find here will probably be newbie-like and messy for now, but over time, with passion comes progress.
+Also very interested in cyber security stuff, currently mainly starting out on HackThebox and TryHackMe challenges, working through the basics.
+
+
