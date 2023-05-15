@@ -12,3 +12,4 @@ Unity Game Scripts - This folder contains some of the scripts that belong to a s
 
 game_lua_scripts - This folder contains a few game client automation bot related scripts.
 
+The Goons - discord bot for a specific use for a specific game for live tracking of a specific event in the game.
